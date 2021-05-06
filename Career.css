@@ -22,13 +22,6 @@
   margin: 78px 0 0;
 }
 
-.u-section-1 .u-text-2 {
-  font-weight: 400;
-  font-family: Pacifico;
-  margin-left: 0;
-  margin-right: 0;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 351px;
@@ -46,7 +39,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 28px;
-    margin-bottom: 28px;
   }
 }
 
@@ -63,7 +55,6 @@
   .u-section-1 .u-text-1 {
     position: relative;
     margin-top: 25px;
-    margin-bottom: 25px;
   }
 }
 
@@ -79,7 +70,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 32px;
-    margin-bottom: 32px;
   }
 }
 
@@ -95,7 +85,6 @@
 
   .u-section-1 .u-text-1 {
     margin-top: 28px;
-    margin-bottom: 0;
   }
 }.u-section-2 {
   min-height: 604px;
@@ -382,7 +371,7 @@
 }
 
 .u-section-3 .u-layout-cell-1 {
-  min-height: 169px;
+  min-height: 175px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -390,19 +379,13 @@
 }
 
 .u-section-3 .u-text-1 {
-  margin: 0;
+  margin: 18px 0 0;
 }
 
 .u-section-3 .u-text-2 {
-  margin: 20px 0 0;
-}
-
-.u-section-3 .u-btn-1 {
-  background-image: none;
-  border-style: none none solid;
-  margin-left: 0;
-  margin-right: 0;
-  padding: 0;
+  font-weight: 400;
+  font-size: 1.125rem;
+  margin: 10px 0 0;
 }
 
 .u-section-3 .u-layout-cell-2 {
@@ -416,8 +399,8 @@
 .u-section-3 .u-social-icons-1 {
   height: 48px;
   min-height: 16px;
-  width: 272px;
-  min-width: 112px;
+  width: 104px;
+  min-width: 40px;
   white-space: nowrap;
   margin: 0 0 0 auto;
 }
@@ -427,18 +410,6 @@
 }
 
 .u-section-3 .u-icon-2 {
-  height: 100%;
-}
-
-.u-section-3 .u-icon-3 {
-  height: 100%;
-}
-
-.u-section-3 .u-icon-4 {
-  height: 100%;
-}
-
-.u-section-3 .u-icon-5 {
   height: 100%;
 }
 
@@ -453,7 +424,7 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 139px;
+    min-height: 144px;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -489,11 +460,6 @@
   .u-section-3 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
-  }
-
-  .u-section-3 .u-btn-1 {
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-3 .u-layout-cell-2 {
