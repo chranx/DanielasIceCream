@@ -341,14 +341,16 @@
 }
 
 .u-section-3 .u-btn-1 {
-  background-image: none;
   border-style: solid;
-  margin: 42px auto 0 80px;
+  font-size: 1.5rem;
+  background-image: none;
+  margin: 42px 68px 0 auto;
+  padding: 3px 9px 4px;
 }
 
 .u-section-3 .u-image-1 {
   min-height: 604px;
-  background-image: url("images/ida-marie-dyroy-RFxUxlapQAk-unsplash.jpg");
+  background-image: url("images/strawberry_ice_cream.jpg");
   background-position: 50% 50%;
 }
 
@@ -398,8 +400,7 @@
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 26px;
-    margin-left: 49px;
+    margin-right: 0;
   }
 
   .u-section-3 .u-image-1 {
@@ -445,8 +446,7 @@
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 50px;
-    margin-left: 50px;
+    margin-top: 47px;
   }
 
   .u-section-3 .u-image-1 {
@@ -460,7 +460,7 @@
   }
 
   .u-section-3 .u-layout-cell-1 {
-    min-height: 349px;
+    min-height: 343px;
   }
 
   .u-section-3 .u-container-layout-1 {
@@ -495,7 +495,8 @@
   }
 
   .u-section-3 .u-btn-1 {
-    margin-top: 18px;
+    margin-top: 39px;
+    margin-right: 50px;
   }
 
   .u-section-3 .u-image-1 {
@@ -510,7 +511,7 @@
 
   .u-section-3 .u-layout-cell-1 {
     order: 1;
-    min-height: 450px;
+    min-height: 422px;
   }
 
   .u-section-3 .u-text-1 {
@@ -879,16 +880,14 @@
 }
 
 .u-section-5 .u-btn-1 {
-  border-style: solid;
-  font-size: 1.5rem;
   background-image: none;
-  margin: 42px 68px 0 auto;
-  padding: 3px 9px 4px;
+  border-style: solid;
+  margin: 42px auto 0 80px;
 }
 
 .u-section-5 .u-image-1 {
   min-height: 604px;
-  background-image: url("images/strawberry_ice_cream.jpg");
+  background-image: url("images/ida-marie-dyroy-RFxUxlapQAk-unsplash.jpg");
   background-position: 50% 50%;
 }
 
@@ -938,7 +937,8 @@
   }
 
   .u-section-5 .u-btn-1 {
-    margin-right: 0;
+    margin-top: 26px;
+    margin-left: 49px;
   }
 
   .u-section-5 .u-image-1 {
@@ -984,7 +984,8 @@
   }
 
   .u-section-5 .u-btn-1 {
-    margin-top: 47px;
+    margin-top: 50px;
+    margin-left: 50px;
   }
 
   .u-section-5 .u-image-1 {
@@ -998,7 +999,7 @@
   }
 
   .u-section-5 .u-layout-cell-1 {
-    min-height: 343px;
+    min-height: 349px;
   }
 
   .u-section-5 .u-container-layout-1 {
@@ -1033,8 +1034,7 @@
   }
 
   .u-section-5 .u-btn-1 {
-    margin-top: 39px;
-    margin-right: 50px;
+    margin-top: 18px;
   }
 
   .u-section-5 .u-image-1 {
@@ -1049,7 +1049,7 @@
 
   .u-section-5 .u-layout-cell-1 {
     order: 1;
-    min-height: 422px;
+    min-height: 450px;
   }
 
   .u-section-5 .u-text-1 {
