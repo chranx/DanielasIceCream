@@ -26,16 +26,6 @@
   margin: 20px 0 0;
 }
 
-.u-section-1 .u-btn-1 {
-  background-image: none;
-  text-transform: uppercase;
-  font-size: 1.125rem;
-  letter-spacing: 2px;
-  height: 50px;
-  margin: 30px auto 0;
-  padding: 11px 24px 11px 23px;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 525px;
